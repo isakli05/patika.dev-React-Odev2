@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact"
+},
+"liveServer.settings.port": 5501
+}
